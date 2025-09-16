@@ -9,5 +9,5 @@ div = round(zahl1 / zahl2, 2)
 print(f"Addition: {add}")
 print(f"Subtraktion: {sub}")
 print(f"Multiplikation: {mul}")
-print(f"Division: {div}")
+print(f"Division: {div}") 
 
